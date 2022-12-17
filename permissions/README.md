@@ -32,7 +32,7 @@ Script that adds execution permission to the owner, the group owner and the othe
   * Other users: all the permissions
 * **_9-John_Doe_**:
 Script that sets the mode of the file `hello` to this:
-- `-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello`
+```-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello```
   * The file `hello` will be in the working directory
   * You are not allowed to use commas for this script
 * **_10-mirror_permissions_**:
